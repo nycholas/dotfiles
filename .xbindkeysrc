@@ -1,0 +1,48 @@
+# Fn keys
+##
+
+# Increase volume
+"amixer set -c 0 Master playback 1+"
+    m:0x0 + c:123
+    XF86AudioRaiseVolume
+
+# Decrease volume
+"amixer set -c 0 Master playback 1-"
+    m:0x0 + c:122
+    XF86AudioLowerVolume
+
+# Toggle mute
+"amixer set Master toggle"
+    m:0x0 + c:121
+    XF86AudioMute
+
+# Clementine keys
+##
+
+# Play if stopped, pause if playing (Super+a)
+"/usr/bin/clementine --play-pause"
+    m:0x40 + c:38
+
+# Stop playback (Super+s)
+"/usr/bin/clementine --stop"
+    m:0x40 + c:39
+
+# Skip backwards in playlist (Super+z)
+"/usr/bin/clementine --previous"
+    m:0x40 + c:52
+
+# Skip forwards in playlist (Super+x)
+"/usr/bin/clementine --next"
+    m:0x40 + c:53
+
+# System keys
+##
+
+# trackpad
+"/home/nycholas/bin/trackpad-toggle.sh"
+    m:0x5 + c:65
+
+# <SUPER> + l
+"xscreensaver-command -lock"
+    m:0x40 + c:46
+
