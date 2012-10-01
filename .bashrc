@@ -46,6 +46,8 @@ alias mvn32="schroot -p -- mvn"
 # modified commands
 alias diff='colordiff'              # requires colordiff package
 alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
 alias more='less'
 alias df='df -h'
 alias du='du -c -h'
@@ -77,6 +79,26 @@ if [ $UID -ne 0 ]; then
     alias update='sudo pacman -Su'
     alias netcfg='sudo netcfg2'
 fi
+
+# Define some colors to use in the prompt
+NO_COLOR="\[\033[0m\]"
+LIGHT_WHITE="\[\033[1;37m\]"
+WHITE="\[\033[0;37m\]"
+GRAY="\[\033[1;30m\]"
+BLACK="\[\033[0;30m\]"
+
+RED="\[\033[0;31m\]"
+LIGHT_RED="\[\033[1;31m\]"
+GREEN="\[\033[0;32m\]"
+LIGHT_GREEN="\[\033[1;32m\]"
+YELLOW="\[\033[0;33m\]"
+LIGHT_YELLOW="\[\033[1;33m\]"
+BLUE="\[\033[0;34m\]"
+LIGHT_BLUE="\[\033[1;34m\]"
+MAGENTA="\[\033[0;35m\]"
+LIGHT_MAGENTA="\[\033[1;35m\]"
+CYAN="\[\033[0;36m\]"
+LIGHT_CYAN="\[\033[1;36m\]"
 
 # Colored output from ls is nice, but the default color choices need
 # work for use on a dark/partially transparent background. Directories
@@ -206,5 +228,45 @@ _compssh ()
 }
 complete -F _compssh ssh
 
+# Change the prompt character dpeending on if we're in a repository
+function prompt_char {
+    git branch >/dev/null 2>/dev/null && echo '±' && return
+    hg root >/dev/null 2>/dev/null && echo '☿' && return
+    echo '$'
+}
+
+## display the current git branch
+__git_ps1() {
+    local b="$(git symbolic-ref HEAD 2>/dev/null)"
+    if [ -n "$b" ]; then
+        printf " (git:%s)" "${b##refs/heads/}"
+    fi
+}
+
+## display the current mercurial branch
+__hg_ps1() {
+    local branch="$(hg branch 2> /dev/null)"
+    if [ -n "$branch" ]; then
+        printf " (hg:%s)" "${branch}"
+    fi
+}
+
+## display the current subversion revision
+__svn_ps1() {
+    if [[ -d ".svn" ]]; then
+        printf " (svn:%s)" `svnversion`
+    fi
+}
 
 
+## My super cool prompt
+export MY_PROMPT="\[\e]0;\u@\h: \w\a\]"
+export MY_PROMPT="$MY_PROMPT${WHITE}[\t] ${LIGHT_GREEN}\u ${LIGHT_WHITE}@ ${LIGHT_RED}\h ${LIGHT_WHITE}in ${LIGHT_CYAN}\w${WHITE}\$(__git_ps1)\$(__hg_ps1)\$(__svn_ps1)\n${LIGHT_WHITE}\$(prompt_char)${NO_COLOR} "
+
+## Basic prompt for everyone else
+export BASIC_PROMPT="${WHITE}[\t] ${LIGHT_GREEN}\u@\h${LIGHT_WHITE}:${LIGHT_BLUE}\w${WHITE}\$${NO_COLOR} "
+
+#export PS1=$MY_PROMPT
+
+alias basic_prompt="export PS1=\$BASIC_PROMPT"
+alias my_prompt="export PS1=\$MY_PROMPT"
