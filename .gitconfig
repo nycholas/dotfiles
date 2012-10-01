@@ -1,0 +1,23 @@
+[user]
+	name = Nycholas de Oliveira e Oliveira
+	email = nycholas@gmail.com
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	df = diff
+	dfs = diff --stat
+	ci = commit
+	pom = pull origin master
+	pl = pull
+	ps = push
+[core]
+	editor = nano -w
+[color]
+	branch = auto
+	diff = auto
+	grep = auto
+	interactive = auto
+	status = auto
+[merge]
+	tool = kdiff3
