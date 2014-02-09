@@ -48,8 +48,7 @@ def get_edge_or_corner(x_max, y_max):
         return 'right'
     elif y == y_max:
         return 'bottom'
-    else:
-        return None
+    return None
 
 def workspace_nth_next(edges, workspace_curr, workspaces_len):
     workspace_curr_nth = workspace_curr['num']
@@ -63,8 +62,7 @@ def workspace_nth_next(edges, workspace_curr, workspaces_len):
         if next > workspaces_len:
             return 1
         return next
-    else:
-        return 1
+    return -1
 
 def new_mouse_location(edges, x_max, y_max):
     x, y = map(int, get_mouse_location())
@@ -72,8 +70,7 @@ def new_mouse_location(edges, x_max, y_max):
         return x_max - 5, y
     elif edges == 'right':
         return 5, y
-    else:
-        return (0, 0)
+    return (-1, -1)
 
 def cmd_behave_screen_edge(delay, quiesce, verbose):
     delay = delay / 1000 if delay > 0 else delay
@@ -100,11 +97,13 @@ def cmd_behave_screen_edge(delay, quiesce, verbose):
 
             next = workspace_nth_next(edges, workspace_curr, workspaces_len)
             logging.debug('exec workspace %i' % next)
-            i3.command('workspace', str(next))
+            if next != -1:
+                i3.command('workspace', str(next))
 
             x_new, y_new = new_mouse_location(edges, x_max, y_max)
             logging.debug('exec xdotool mousemove %i %i' % (x_new, y_new))
-            set_mouse_location(x_new, y_new)
+            if x_new != -1 and y_new != -1:
+                set_mouse_location(x_new, y_new)
 
             time.sleep(quiesce)
             continue
