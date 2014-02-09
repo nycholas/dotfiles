@@ -1,0 +1,2284 @@
+09-02-2014 13:48:38 - i3 4.7.2 (2014-01-23, branch "tags/4.7.2") starting
+09-02-2014 13:48:38 - Parsing configfile /home/nycholas/.i3/config
+deciding for version 4 due to this line: # i3 config file (v4)
+09-02-2014 13:48:38 - [libi3] libi3/font.c Using Pango font Terminus, size 10
+09-02-2014 13:48:38 - [libi3] libi3/font.c X11 root window dictates 96,094581 DPI
+09-02-2014 13:48:38 - Used number 1 for workspace with name 1
+09-02-2014 13:48:38 - This is not an in-place restart, copying root window contents to a pixmap
+09-02-2014 13:48:38 - auto-starting ~/.i3/i3mouseswitch.py left
+09-02-2014 13:48:38 - executing: ~/.i3/i3mouseswitch.py left
+09-02-2014 13:48:38 - auto-starting ~/.i3/i3mouseswitch.py right
+09-02-2014 13:48:38 - executing: ~/.i3/i3mouseswitch.py right
+09-02-2014 13:48:38 - auto-starting terminal --title=scratchpad
+09-02-2014 13:48:38 - executing: terminal --title=scratchpad
+09-02-2014 13:48:38 - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.1082"
+09-02-2014 13:48:38 - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.1082"
+09-02-2014 13:48:38 - IPC: looking for config for bar ID "bar-0"
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - WM_CLASS changed to i3bar (instance), i3bar (class)
+09-02-2014 13:48:38 - WM_NAME changed to "i3bar for output LVDS1"
+09-02-2014 13:48:38 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+09-02-2014 13:48:38 - This window is of type dock
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - dock status does not match
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - dock status matches
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Terminal" does not match "i3bar"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Xfce4-notifyd" does not match "i3bar"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Mirage" does not match "i3bar"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "MPlayer" does not match "i3bar"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Thunar" does not match "i3bar"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Panel" does not match "i3bar for output LVDS1"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Settings" does not match "i3bar for output LVDS1"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Manager" does not match "i3bar"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Notes" does not match "i3bar for output LVDS1"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Orage" does not match "i3bar"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "feh" does not match "i3bar for output LVDS1"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Downloads" does not match "i3bar for output LVDS1"
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Pman" does not match "i3bar for output LVDS1"
+09-02-2014 13:48:38 - Urgency flag changed to 0
+
+(terminal:1121): GLib-WARNING **: (gerror.c:390):g_error_new_valist: runtime check failed: (domain != 0)
+Failed to connect to session manager: Falhou ao conectar ao gerenciador de sessão: SESSION_MANAGER environment variable not defined
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - ClientMessage for window 0x01400003
+09-02-2014 13:48:38 - WM_CLASS changed to terminal (instance), Terminal (class)
+09-02-2014 13:48:38 - WM_NAME changed to "scratchpad"
+09-02-2014 13:48:38 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+09-02-2014 13:48:38 - _NET_WM_NAME changed to "scratchpad"
+09-02-2014 13:48:38 - WM_WINDOW_ROLE changed to "xfce4-terminal-1391960918-1558236025"
+09-02-2014 13:48:38 - WM_HINTS.input changed to "1"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - dock status does not match
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - dock status does not match
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:48:38 - window class matches (Terminal)
+09-02-2014 13:48:38 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:48:38 - title matches (scratchpad)
+window id as int = 20971523
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - window id does not match
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - match made by window id (20971523)
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Terminal" does not match "i3bar"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:48:38 - window class matches (Terminal)
+09-02-2014 13:48:38 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:48:38 - title matches (scratchpad)
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ecd30, ws = 0x14ecd30
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - focused now = 0x14ee400 / 1
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - Checking window 0x01200007 (class i3bar)
+09-02-2014 13:48:38 - Regular expression "Terminal" does not match "i3bar"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:48:38 - window class matches (Terminal)
+09-02-2014 13:48:38 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:48:38 - title matches (scratchpad)
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ecd30, ws = 0x14ecd30
+09-02-2014 13:48:38 - floating resize
+09-02-2014 13:48:38 - floating resize
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ecd30, ws = 0x14ecd30
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - focused now = 0x14ee400 / 1
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Panel" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Settings" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Notes" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "feh" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Downloads" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Pman" does not match "scratchpad"
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ecd30, ws = 0x14ecd30
+09-02-2014 13:48:38 - Urgency flag changed to 0
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - _NET_WM_NAME changed to "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:48:38 - window class matches (Terminal)
+09-02-2014 13:48:38 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:48:38 - title matches (scratchpad)
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Panel" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Settings" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Notes" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "feh" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Downloads" does not match "scratchpad"
+09-02-2014 13:48:38 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:48:38 - Regular expression "Pman" does not match "scratchpad"
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:39 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:39 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:39 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:39 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:40 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:40 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:40 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:40 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:41 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:41 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:41 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:41 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:42 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:42 - workspace visible? fs = 0x14ecd30, ws = 0x14ecd30
+09-02-2014 13:48:42 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:42 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:42 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:42 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:43 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:43 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:43 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:43 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:44 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:44 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:44 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:44 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:45 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:45 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:45 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:45 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:46 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:46 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:46 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:46 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:47 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:47 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:47 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:47 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:48 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:48 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:48 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:48 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:49 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:49 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:49 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:49 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:50 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:50 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:50 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:50 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:51 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:51 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:51 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:51 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:52 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:52 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:52 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:52 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:54 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:54 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:54 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:54 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:55 - Creating new workspace "2"
+09-02-2014 13:48:55 - got output 0x14edb80 with content 0x14edfb0
+09-02-2014 13:48:55 - num = 2
+09-02-2014 13:48:55 - focused now = 0x157bfd0 / 2
+09-02-2014 13:48:55 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:55 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:55 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:55 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:56 - startup id = i3/terminal/1082-0-pinhead_TIME84573092
+09-02-2014 13:48:56 - executing: terminal
+09-02-2014 13:48:56 - Not a managed window, ignoring UnmapNotify event
+09-02-2014 13:48:56 - ClientMessage for window 0x014000a1
+09-02-2014 13:48:56 - WM_CLASS changed to terminal (instance), Terminal (class)
+09-02-2014 13:48:56 - WM_NAME changed to "Terminal"
+09-02-2014 13:48:56 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+09-02-2014 13:48:56 - _NET_WM_NAME changed to "Terminal"
+09-02-2014 13:48:56 - WM_WINDOW_ROLE changed to "xfce4-terminal-1391960936--452187511"
+09-02-2014 13:48:56 - WM_HINTS.input changed to "1"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - dock status does not match
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - dock status does not match
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:48:56 - window class matches (Terminal)
+09-02-2014 13:48:56 - Regular expression "scratchpad" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Panel" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Settings" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Notes" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "feh" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Downloads" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Pman" does not match "Terminal"
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:56 - _NET_WM_NAME changed to "Terminal - nycholas@pinhead:~"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:48:56 - window class matches (Terminal)
+09-02-2014 13:48:56 - Regular expression "scratchpad" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Panel" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Settings" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Notes" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "feh" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Downloads" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:48:56 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:48:56 - Regular expression "Pman" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 2, 'name': '2', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:48:57 - IPC: received: * workspace 1*
+09-02-2014 13:48:57 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:57 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:58 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:59 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:59 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:59 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:59 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:59 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:59 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:48:59 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:48:59 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '1', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 1}, workspaces_len: 2
+09-02-2014 13:48:59 - IPC: received: * workspace 2*
+09-02-2014 13:48:59 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:48:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:48:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:48:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 2, 'name': '2', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:00 - IPC: received: * workspace 1*
+09-02-2014 13:49:00 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:00 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:00 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:00 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:00 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:00 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:00 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:00 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:00 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:01 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:02 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:03 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:04 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:05 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:05 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:05 - IPC: received: * workspace 2*
+09-02-2014 13:49:05 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:05 - IPC: received: * workspace 1*
+09-02-2014 13:49:05 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:05 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:05 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:05 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:05 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:06 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:07 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:07 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:07 - IPC: received: * workspace 2*
+09-02-2014 13:49:07 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:08 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:08 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:08 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:08 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:08 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:08 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:08 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:08 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:08 - IPC: received: * workspace 1*
+09-02-2014 13:49:08 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:08 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:08 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:08 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:08 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:08 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:08 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:08 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:08 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:09 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:09 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:09 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:09 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:09 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:09 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:09 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:09 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:09 - IPC: received: * workspace 2*
+09-02-2014 13:49:09 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:09 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:09 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:09 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:09 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:09 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:09 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:09 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:09 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:10 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:10 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:10 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:10 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:10 - IPC: received: * workspace 1*
+09-02-2014 13:49:10 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:10 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:11 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:11 - IPC: received: * workspace 2*
+09-02-2014 13:49:11 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:11 - IPC: received: * workspace 1*
+09-02-2014 13:49:11 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:11 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:11 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:11 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:11 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:12 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:12 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:12 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:12 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:12 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:12 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:12 - IPC: received: * workspace 2*
+09-02-2014 13:49:12 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:12 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:13 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:13 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:13 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:13 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:13 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:13 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:13 - IPC: received: * workspace 1*
+09-02-2014 13:49:13 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:13 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:13 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:13 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:13 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:13 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:13 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:13 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:13 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:14 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:14 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:14 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:14 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:14 - IPC: received: * workspace 2*
+09-02-2014 13:49:14 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:14 - IPC: received: * workspace 1*
+09-02-2014 13:49:14 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:14 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:14 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:15 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:15 - IPC: received: * workspace 2*
+09-02-2014 13:49:15 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:15 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:15 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:15 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:15 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:15 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:15 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:16 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:16 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:16 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:16 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:16 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:16 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:16 - IPC: received: * workspace 1*
+09-02-2014 13:49:16 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:16 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:17 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:17 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:17 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:17 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:17 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:17 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:17 - IPC: received: * workspace 2*
+09-02-2014 13:49:17 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:17 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:18 - IPC: received: * workspace 1*
+09-02-2014 13:49:18 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:18 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:18 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:18 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:18 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:18 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:18 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:18 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:18 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:18 - IPC: received: * workspace 2*
+09-02-2014 13:49:18 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:18 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:19 - IPC: received: * workspace 1*
+09-02-2014 13:49:19 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:19 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:19 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:20 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:20 - IPC: received: * workspace 2*
+09-02-2014 13:49:20 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:20 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:20 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:20 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:20 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:20 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:20 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:21 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:21 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:21 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:21 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:21 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:21 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:21 - IPC: received: * workspace 1*
+09-02-2014 13:49:21 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:21 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:22 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:22 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:22 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:22 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:22 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:22 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:22 - IPC: received: * workspace 2*
+09-02-2014 13:49:22 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:22 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:23 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:23 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:23 - IPC: received: * workspace 1*
+09-02-2014 13:49:23 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:23 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:24 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:24 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:24 - IPC: received: * workspace 2*
+09-02-2014 13:49:24 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:24 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:25 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:25 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:25 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:25 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:25 - IPC: received: * workspace 1*
+09-02-2014 13:49:25 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:25 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:26 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:26 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:26 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:26 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:26 - IPC: received: * workspace 2*
+09-02-2014 13:49:26 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:26 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:27 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:28 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:28 - IPC: received: * workspace 1*
+09-02-2014 13:49:28 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:28 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:28 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:28 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:28 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:29 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:29 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:29 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:29 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:29 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:29 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:29 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:29 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:29 - IPC: received: * workspace 2*
+09-02-2014 13:49:29 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:29 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:29 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:29 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:29 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:29 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:29 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:29 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:29 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:30 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:30 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:30 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:30 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:30 - IPC: received: * workspace 1*
+09-02-2014 13:49:30 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:30 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:31 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:31 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:31 - IPC: received: * workspace 2*
+09-02-2014 13:49:31 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:33 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:34 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:35 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:36 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:37 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:37 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:37 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:37 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:37 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:37 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:37 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:37 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:37 - IPC: received: * workspace 1*
+09-02-2014 13:49:37 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:37 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:37 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:37 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:37 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:37 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:37 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:38 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:38 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:38 - IPC: received: * workspace 2*
+09-02-2014 13:49:38 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:38 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:39 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:39 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:39 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:39 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:39 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:39 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:39 - IPC: received: * workspace 1*
+09-02-2014 13:49:39 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:39 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:40 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:40 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:40 - IPC: received: * workspace 2*
+09-02-2014 13:49:40 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:40 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:41 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:42 - IPC: received: * workspace 1*
+09-02-2014 13:49:42 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:42 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:42 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:42 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:42 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:42 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:42 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:42 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:42 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:42 - IPC: received: * workspace 2*
+09-02-2014 13:49:42 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:42 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:43 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:44 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:45 - IPC: received: * workspace 1*
+09-02-2014 13:49:45 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:45 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:45 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:45 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:45 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:45 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:45 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:45 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:45 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:45 - IPC: received: * workspace 2*
+09-02-2014 13:49:45 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:45 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:46 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:46 - IPC: received: * workspace 1*
+09-02-2014 13:49:46 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:46 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:46 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:46 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:46 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:47 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:47 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:47 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:47 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:47 - IPC: received: * workspace 2*
+09-02-2014 13:49:47 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:47 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:48 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:49 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:50 - IPC: received: * workspace 1*
+09-02-2014 13:49:50 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:50 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:50 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:50 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:50 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:50 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:50 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:50 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:50 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:50 - IPC: received: * workspace 2*
+09-02-2014 13:49:50 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:50 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:51 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:52 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:52 - IPC: received: * workspace 1*
+09-02-2014 13:49:52 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:52 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:52 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:52 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:52 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:53 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:53 - IPC: received: * workspace 2*
+09-02-2014 13:49:53 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:53 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:53 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:53 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:53 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:54 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:54 - IPC: received: * workspace 1*
+09-02-2014 13:49:54 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:54 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:54 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:55 - IPC: received: * workspace 2*
+09-02-2014 13:49:55 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:55 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:55 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:55 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:55 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:55 - IPC: received: * workspace 1*
+09-02-2014 13:49:55 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:55 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:56 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:56 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:56 - IPC: received: * workspace 2*
+09-02-2014 13:49:56 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:56 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:56 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:56 - Not a managed window, ignoring UnmapNotify event
+09-02-2014 13:49:56 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:56 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:56 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '2', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 2}, workspaces_len: 2
+09-02-2014 13:49:56 - IPC: received: * workspace 1*
+09-02-2014 13:49:56 - focused now = 0x157b7c0 / #ff0000
+09-02-2014 13:49:56 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:56 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:56 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:56 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:56 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:56 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+09-02-2014 13:49:57 - workspace visible? fs = 0x14ee400, ws = 0x14ee400
+09-02-2014 13:49:57 - workspace visible? fs = 0x14ee400, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 1, 'name': '1', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:49:57 - IPC: received: * workspace 2*
+09-02-2014 13:49:57 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:57 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:58 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:49:59 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:00 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:01 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:02 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:03 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x14ee400
+09-02-2014 13:50:04 - Closing old workspace (0x14ee400 / 1), it is empty
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:04 - Not a managed window, ignoring UnmapNotify event
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:04 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:05 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:06 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:06 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:06 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:06 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:07 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:08 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:08 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:08 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:08 - _NET_WM_NAME changed to "scratchpad"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:50:08 - window class matches (Terminal)
+09-02-2014 13:50:08 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:50:08 - title matches (scratchpad)
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Panel" does not match "scratchpad"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Settings" does not match "scratchpad"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Notes" does not match "scratchpad"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "feh" does not match "scratchpad"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Downloads" does not match "scratchpad"
+09-02-2014 13:50:08 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:08 - Regular expression "Pman" does not match "scratchpad"
+09-02-2014 13:50:08 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:09 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:09 - workspace visible? fs = 0x14ecd30, ws = 0x14ecd30
+09-02-2014 13:50:09 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:50:09 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:09 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:09 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:09 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:10 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:10 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:10 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:10 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:11 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:12 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:12 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:12 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:12 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:13 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:13 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:13 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:13 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:14 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:15 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:15 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:15 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:15 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:16 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:16 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:16 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:16 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:17 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:17 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:17 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:17 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:18 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:18 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:18 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:19 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:20 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:20 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:20 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:20 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:21 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:21 - _NET_WM_NAME changed to "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:50:21 - window class matches (Terminal)
+09-02-2014 13:50:21 - Regular expression "scratchpad" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Panel" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Settings" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Notes" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "feh" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Downloads" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:21 - Checking window 0x014000a1 (class Terminal)
+09-02-2014 13:50:21 - Regular expression "Pman" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:21 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:21 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:21 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:22 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:22 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:22 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:22 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:23 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:23 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:23 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:23 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:24 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:24 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:24 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:24 - Creating new workspace "1"
+09-02-2014 13:50:24 - got output 0x14edb80 with content 0x14edfb0
+09-02-2014 13:50:24 - num = 1
+09-02-2014 13:50:24 - focused now = 0x15885a0 / 1
+09-02-2014 13:50:24 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:24 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:24 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:24 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:24 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:24 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:25 - startup id = i3/terminal/1082-1-pinhead_TIME84662091
+09-02-2014 13:50:25 - executing: terminal
+09-02-2014 13:50:25 - Not a managed window, ignoring UnmapNotify event
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:25 - ClientMessage for window 0x014002d7
+09-02-2014 13:50:25 - WM_CLASS changed to terminal (instance), Terminal (class)
+09-02-2014 13:50:25 - WM_NAME changed to "Terminal"
+09-02-2014 13:50:25 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+09-02-2014 13:50:25 - _NET_WM_NAME changed to "Terminal"
+09-02-2014 13:50:25 - WM_WINDOW_ROLE changed to "xfce4-terminal-1391961025-1891356425"
+09-02-2014 13:50:25 - WM_HINTS.input changed to "1"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - dock status does not match
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - dock status does not match
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:50:25 - window class matches (Terminal)
+09-02-2014 13:50:25 - Regular expression "scratchpad" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Panel" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Settings" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Notes" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "feh" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Downloads" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Pman" does not match "Terminal"
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:25 - _NET_WM_NAME changed to "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:50:25 - window class matches (Terminal)
+09-02-2014 13:50:25 - Regular expression "scratchpad" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Panel" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Settings" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Notes" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "feh" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Downloads" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:25 - Checking window 0x014002d7 (class Terminal)
+09-02-2014 13:50:25 - Regular expression "Pman" does not match "Terminal - nycholas@pinhead:~"
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:25 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:26 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:26 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:26 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:26 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:26 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:26 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:26 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:26 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '1', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 1}, workspaces_len: 2
+09-02-2014 13:50:26 - IPC: received: * workspace 2*
+09-02-2014 13:50:26 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:50:26 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:26 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:26 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:26 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:26 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:26 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:27 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:27 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:27 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:27 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:27 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:27 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 2, 'name': '2', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:50:27 - IPC: received: * workspace 1*
+09-02-2014 13:50:27 - focused now = 0x1587550 / #ffff00
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:27 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:28 - workspace visible? fs = 0x14ecd30, ws = 0x14ecd30
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:28 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:29 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:30 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:31 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+INFO:root:[OK] edges: right, workspace_curr: {'name': '1', 'visible': True, 'focused': True, 'urgent': False, 'rect': {'height': 749, 'y': 0, 'x': 0, 'width': 1366}, 'output': 'LVDS1', 'num': 1}, workspaces_len: 2
+09-02-2014 13:50:31 - IPC: received: * workspace 2*
+09-02-2014 13:50:31 - focused now = 0x15825e0 / #ff00ff
+09-02-2014 13:50:31 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:31 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:31 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:31 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:32 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:32 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+09-02-2014 13:50:32 - workspace visible? fs = 0x157bfd0, ws = 0x15885a0
+09-02-2014 13:50:32 - workspace visible? fs = 0x157bfd0, ws = 0x157bfd0
+INFO:root:[OK] edges: left, workspace_curr: {'focused': True, 'urgent': False, 'num': 2, 'name': '2', 'output': 'LVDS1', 'rect': {'width': 1366, 'height': 749, 'x': 0, 'y': 0}, 'visible': True}, workspaces_len: 2
+09-02-2014 13:50:32 - IPC: received: * workspace 1*
+09-02-2014 13:50:32 - focused now = 0x1587550 / #ffff00
+09-02-2014 13:50:32 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:32 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:32 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:32 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:32 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:32 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:32 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:32 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:33 - _NET_WM_NAME changed to "scratchpad"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:50:33 - window class matches (Terminal)
+09-02-2014 13:50:33 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:50:33 - title matches (scratchpad)
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Panel" does not match "scratchpad"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Settings" does not match "scratchpad"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Notes" does not match "scratchpad"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "feh" does not match "scratchpad"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Downloads" does not match "scratchpad"
+09-02-2014 13:50:33 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:33 - Regular expression "Pman" does not match "scratchpad"
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:33 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:34 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:35 - _NET_WM_NAME changed to "scratchpad"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:50:35 - window class matches (Terminal)
+09-02-2014 13:50:35 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:50:35 - title matches (scratchpad)
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Panel" does not match "scratchpad"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Settings" does not match "scratchpad"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Notes" does not match "scratchpad"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "feh" does not match "scratchpad"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Downloads" does not match "scratchpad"
+09-02-2014 13:50:35 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:35 - Regular expression "Pman" does not match "scratchpad"
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:35 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:36 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:37 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:38 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:39 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:40 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:41 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:42 - _NET_WM_NAME changed to "scratchpad"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:50:42 - window class matches (Terminal)
+09-02-2014 13:50:42 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:50:42 - title matches (scratchpad)
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Panel" does not match "scratchpad"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Settings" does not match "scratchpad"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Notes" does not match "scratchpad"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "feh" does not match "scratchpad"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Downloads" does not match "scratchpad"
+09-02-2014 13:50:42 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:42 - Regular expression "Pman" does not match "scratchpad"
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:42 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:43 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:44 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:45 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:46 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:47 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:48 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:49 - _NET_WM_NAME changed to "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:50:49 - window class matches (Terminal)
+09-02-2014 13:50:49 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:50:49 - title matches (scratchpad)
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Panel" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Settings" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Notes" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "feh" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Downloads" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Pman" does not match "scratchpad"
+09-02-2014 13:50:49 - _NET_WM_NAME changed to "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Terminal" matches "Terminal"
+09-02-2014 13:50:49 - window class matches (Terminal)
+09-02-2014 13:50:49 - Regular expression "scratchpad" matches "scratchpad"
+09-02-2014 13:50:49 - title matches (scratchpad)
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Xfce4-notifyd" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Mirage" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "MPlayer" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Thunar" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Panel" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Settings" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Manager" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Notes" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Orage" does not match "Terminal"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "feh" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Downloads" does not match "scratchpad"
+09-02-2014 13:50:49 - Checking window 0x01400003 (class Terminal)
+09-02-2014 13:50:49 - Regular expression "Pman" does not match "scratchpad"
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:49 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:50 - workspace visible? fs = 0x14ecd30, ws = 0x14ecd30
+09-02-2014 13:50:50 - focused now = 0x1587550 / #ffff00
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:50 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:51 - Switching to mode System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Shift+s) shutdown
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:51 - executing: i3exit logout
+09-02-2014 13:50:51 - Switching to mode default
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x15885a0
+09-02-2014 13:50:51 - workspace visible? fs = 0x15885a0, ws = 0x157bfd0
+09-02-2014 13:50:51 - IPC: received: *exit*
+09-02-2014 13:50:51 - Exiting due to user command.
+[libi3] ERROR: IPC: received EOF instead of reply
+[libi3] libi3/font.c Using Pango font Terminus, size 8
+[libi3] libi3/font.c X11 root window dictates 96.094581 DPI
+Traceback (most recent call last):
+  File "/home/nycholas/.i3/i3mouseswitch.py", line 140, in <module>
+    main()
+  File "/home/nycholas/.i3/i3mouseswitch.py", line 136, in main
+    cmd_behave_screen_edge(**options)
+  File "/home/nycholas/.i3/i3mouseswitch.py", line 97, in cmd_behave_screen_edge
+    if is_edge_or_corner(edges, x_max, y_max):
+  File "/home/nycholas/.i3/i3mouseswitch.py", line 33, in is_edge_or_corner
+    x, y = map(int, get_mouse_location())
+  File "/home/nycholas/.i3/i3mouseswitch.py", line 25, in get_mouse_location
+    stdin=DEVNULL, stderr=subprocess.STDOUT)
+  File "/usr/lib/python3.3/subprocess.py", line 589, in check_output
+    raise CalledProcessError(retcode, process.args, output=output)
+subprocess.CalledProcessError: Command '['xdotool', 'getmouselocation']' returned non-zero exit status 1
+Traceback (most recent call last):
+  File "/home/nycholas/.i3/i3mouseswitch.py", line 140, in <module>
+    main()
+  File "/home/nycholas/.i3/i3mouseswitch.py", line 136, in main
+    cmd_behave_screen_edge(**options)
+  File "/home/nycholas/.i3/i3mouseswitch.py", line 83, in cmd_behave_screen_edge
+    workspaces = i3.get_workspaces()
+  File "/usr/lib/python3.3/site-packages/i3.py", line 409, in function
+    response = msg(type, msg_full)
+  File "/usr/lib/python3.3/site-packages/i3.py", line 392, in msg
+    response = default_socket().get(type, message)
+  File "/usr/lib/python3.3/site-packages/i3.py", line 181, in get
+    self.send(msg_type, payload)
+  File "/usr/lib/python3.3/site-packages/i3.py", line 203, in send
+    self.socket.sendall(message)
+BrokenPipeError: [Errno 32] Broken pipe
+xcb_connection_has_error() retornou verdadeiro
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.

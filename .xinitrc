@@ -53,7 +53,7 @@ wmname LG3D
 #exec ck-launch-session dbus-launch fvwm
 
 # FVWM-Crystal
-exec ck-launch-session dbus-launch fvwm-crystal
+#exec ck-launch-session dbus-launch fvwm-crystal
 
 # NOTION3
 #(trayion &)
@@ -63,3 +63,8 @@ exec ck-launch-session dbus-launch fvwm-crystal
 
 # Qtile
 #exec ck-launch-session dbus-launch qtile
+
+# i3
+exec ck-launch-session dbus-launch i3
+#exec ck-launch-session dbus-launch i3 -V >>~/.i3/i3log 2>&1
+#exec ck-launch-session dbus-launch i3 --force-xinerama -V >>~/.i3/i3log 2>&1
