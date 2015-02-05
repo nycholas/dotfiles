@@ -21,3 +21,6 @@
 	status = auto
 [merge]
 	tool = kdiff3
+	conflictstyle = diff3
+[push]
+	default = simple
