@@ -46,3 +46,9 @@
 "xscreensaver-command -lock"
     m:0x40 + c:46
 
+# Backlight
+"/usr/bin/xbacklight -inc 10"
+    XF86MonBrightnessUp
+
+"/usr/bin/xbacklight -dec 5"
+    XF86MonBrightnessDown
