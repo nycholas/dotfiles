@@ -1,0 +1,22 @@
+background        no
+out_to_console    yes
+out_to_x      no
+update_interval   2
+total_run_times   0
+short_units   yes
+pad_percents      3
+
+override_utf8_locale yes
+
+TEXT
+,[{"full_text": " ♦ $loadavg ", "color":"\#DC322F"},
+  {"full_text": " ❤ $acpitemp°C [$cpu%] ","color": "\#FF6347"},
+  {"full_text": " ≣ $mem/$memmax ", "color":"\#B58900"},
+  ${if_up wlp3s0}{"full_text": " ≈ ${wireless_essid wlp3s0} [${wireless_link_qual_perc wlp3s0}%] ","color":"\#33CC99"},${endif}
+  ${if_up enp2s0}{"full_text": " ≈ ${addr enp2s0} [${downspeed enp2s0}/${upspeed enp2s0}] ","color":"\#778899"},${endif}
+  {"full_text": " ⚠ [${battery_percent BAT0}%] ","color":"\#8B008B"},
+  {"full_text": " ♫ [${exec amixer -c 0 get Master | grep Mono: | awk '{print $4}' | sed 's/[^0-9]//g'}%] ","color":"\#9933CC"},
+  {"full_text": " ☠ [${entropy_perc}%] ","color":"\#551A8B"},
+  {"full_text": " ${time %a %d-%m-%Y} ${time %H:%M} "}
+]
+
